@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598934510 source:c:\users\pc\desktop\cg\rocket\main.cpp
+	<cstdio>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1598934510 source:g:\cg\cg\rocket\main.cpp
+	<cstdio>
+	<GL/gl.h>
+	<GL/glut.h>
+
